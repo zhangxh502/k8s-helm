@@ -1,4 +1,4 @@
-FROM alpine
+FROM aarch64/alpine
 
 ENV HELM_LATEST_VERSION="v2.14.3"
 
